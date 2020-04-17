@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.example.practice.sjms.cjx.factory.abstractfactory</OriginalElement>
+  <nodes>
+    <node x="120.0" y="255.0">com.example.practice.sjms.cjx.factory.abstractfactory.Car</node>
+    <node x="0.0" y="130.0">com.example.practice.sjms.cjx.factory.abstractfactory.BSJFactory</node>
+    <node x="0.0" y="362.0">com.example.practice.sjms.cjx.factory.abstractfactory.DZCar</node>
+    <node x="301.0" y="464.0">com.example.practice.sjms.cjx.factory.abstractfactory.Main</node>
+    <node x="184.0" y="0.0">com.example.practice.sjms.cjx.factory.abstractfactory.Factory</node>
+    <node x="368.0" y="130.0">com.example.practice.sjms.cjx.factory.abstractfactory.DZFactory</node>
+    <node x="69.0" y="464.0">com.example.practice.sjms.cjx.factory.abstractfactory.Airplane</node>
+    <node x="184.0" y="130.0">com.example.practice.sjms.cjx.factory.abstractfactory.BYDFactory</node>
+    <node x="0.0" y="571.0">com.example.practice.sjms.cjx.factory.abstractfactory.BSJPlane</node>
+    <node x="240.0" y="362.0">com.example.practice.sjms.cjx.factory.abstractfactory.BYDCar</node>
+    <node x="120.0" y="362.0">com.example.practice.sjms.cjx.factory.abstractfactory.BSJCar</node>
+    <node x="138.0" y="571.0">com.example.practice.sjms.cjx.factory.abstractfactory.BYDPlane</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.BYDFactory" target="com.example.practice.sjms.cjx.factory.abstractfactory.Factory">
+      <point x="0.0" y="-40.0" />
+      <point x="0.0" y="40.0" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.DZCar" target="com.example.practice.sjms.cjx.factory.abstractfactory.Car">
+      <point x="0.0" y="-28.5" />
+      <point x="50.0" y="337.0" />
+      <point x="136.66666666666666" y="337.0" />
+      <point x="-33.33333333333334" y="28.5" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.BYDPlane" target="com.example.practice.sjms.cjx.factory.abstractfactory.Airplane">
+      <point x="0.0" y="-28.5" />
+      <point x="197.0" y="546.0" />
+      <point x="157.5" y="546.0" />
+      <point x="29.5" y="28.5" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.BYDCar" target="com.example.practice.sjms.cjx.factory.abstractfactory.Car">
+      <point x="0.0" y="-28.5" />
+      <point x="290.0" y="337.0" />
+      <point x="203.33333333333334" y="337.0" />
+      <point x="33.33333333333334" y="28.5" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.DZFactory" target="com.example.practice.sjms.cjx.factory.abstractfactory.Factory">
+      <point x="0.0" y="-40.0" />
+      <point x="450.0" y="105.0" />
+      <point x="320.66666666666663" y="105.0" />
+      <point x="54.66666666666663" y="40.0" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.BSJCar" target="com.example.practice.sjms.cjx.factory.abstractfactory.Car">
+      <point x="0.0" y="-28.5" />
+      <point x="0.0" y="28.5" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.BSJPlane" target="com.example.practice.sjms.cjx.factory.abstractfactory.Airplane">
+      <point x="0.0" y="-28.5" />
+      <point x="59.0" y="546.0" />
+      <point x="98.5" y="546.0" />
+      <point x="-29.5" y="28.5" />
+    </edge>
+    <edge source="com.example.practice.sjms.cjx.factory.abstractfactory.BSJFactory" target="com.example.practice.sjms.cjx.factory.abstractfactory.Factory">
+      <point x="0.0" y="-40.0" />
+      <point x="82.0" y="105.0" />
+      <point x="211.33333333333334" y="105.0" />
+      <point x="-54.66666666666666" y="40.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="266.0" y="314.0" />
+  <SelectedNodes>
+    <node>com.example.practice.sjms.cjx.factory.abstractfactory.Factory</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
